@@ -1,0 +1,6 @@
+[project]
+name = "enumlens"
+version = "0.1.0"
+description = "Offline parser for authorized lab enumeration reports"
+requires-python = ">=3.9"
+license = {text = "MIT"}
